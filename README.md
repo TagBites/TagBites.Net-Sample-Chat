@@ -1,4 +1,4 @@
-# TagBites.Net - Sample - Chat with Controllers
+# TagBites.Net - Sample - Chat
 
 Sample of client-server chat application written in C# using TagBites.Net library.
 
